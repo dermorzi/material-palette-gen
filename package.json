@@ -1,7 +1,7 @@
 {
-  "name": "material-palette",
-  "version": "0.0.0",
-  "private": true,
+  "name": "material-palette-gen",
+  "version": "0.0.1",
+  "private": false,
   "scripts": {
     "dev": "vite",
     "build": "run-p type-check build-only",
